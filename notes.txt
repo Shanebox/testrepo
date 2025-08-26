@@ -1,0 +1,41 @@
+- Module 1: Git and GitHub Fundamentals
+    - Basics of Git and GitHub:
+        - Repositories
+        - Editing and pushing files
+        - GitHub brances
+    
+    -Hands on Activities
+        - Creating a GitHub account and a project repositories
+        - Creating brances and merging a pull request
+
+- Module 2: Brances, Git Commands, and managing GitHub Projects
+    - Git workflow and commands:
+        - Using brances
+        - Forking and cloning Repositories
+        - Collaborating using git commands
+
+    - Hands on Activities:
+        - Cloning and forking in a project
+
+- Module 3: Final Project and Peer Review
+    - Part 1: GitHub UI
+        - Creating a GitHub Project
+        - Adding, Commiting and pushing files
+        - Share your project
+        - Review peers' projects
+
+    - Part 2: Git Command Line Interface(CLI)
+        - Optional topic
+        - GitHub Copilot
+
+- Module 4:[Optional] Working with GitHub from your desktop
+    - Install Git Bash
+    - Generate SSH key
+    - Add the key to GitHub
+
+Get the most from your course
+1. Watch All Videos
+2. Complete hands-on activities
+3. Attempt all quizes
+4. Complete the Final Project
+5. Use discussion forums for assistance
